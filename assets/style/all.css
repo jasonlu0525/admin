@@ -17216,22 +17216,6 @@ a {
   color: inherit;
 }
 
-.textarea {
-  border: none;
-}
-
-.textarea:focus-visible {
-  outline: none;
-}
-
-.fs-7 {
-  font-size: 14px;
-}
-
-.fs-8 {
-  font-size: 12px;
-}
-
 .logo {
   width: 150px;
   height: 40px;
@@ -17257,6 +17241,14 @@ a {
 
 .modal-max-height {
   max-height: 736px !important;
+}
+
+.textarea {
+  border: none;
+}
+
+.textarea:focus-visible {
+  outline: none;
 }
 
 /*# sourceMappingURL=all.css.map */
